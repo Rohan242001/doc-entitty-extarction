@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "medical-data-extraction",
+  "private_key_id": "4db6b8f4be73d9594749c71002e2f2e8a6a4e8fe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDSsDvz+0mdQJA1\nS3sJjIx6yw3N8O/zTOLVYcDMi611++RkFK0qEVTTctwOeMnb5XV5SaAi1e62ihqS\nkqGQXJVtznN0fnFTB7BYeDmkx/vTN9NO61P+3BsoqTiRLZll/skOeQBzBLyoMm2K\nnebenZaxiFd6pesrQ+1VSCVl45i+trF3kzqrZhIiQIpD4JS1XNjs/FTgdTyXqEF2\nq/JRGJe6LMk3ZLBklcGYdXJZWjAhdpFaz0GWlangFF//DWT0i8IVD3YXK17XnujO\ntWZjiyDiF4KMU2Ke7RPE4iketUfFpFOrCEDVRg5efPDMPY2WQy8kpk/5FWdU6nZe\nn11V4zvxAgMBAAECggEADbGFnARrkuxk0wnuW78GTF7RLV7pAYuwPIUndkPnyMDP\n5c9QN+k7dajD867XE9M0kOb/oPP9mWCdfIRKOutBjQr7hwlGzUo1JHLf8D1NOTuq\nILl70pc0rq5c7laj3zSxlZ64sEERD++DHhzIKhTc+/nsEZ0iDURTcxUG1Tn3LgHs\niVgnvGfMWg3qssDlxlgC6UQ2ce6UkVwstHW4mLbQGnaFfP9QtNfCUeLWTeWWOPUX\nAkBb4+TOByVYwDAl44ElXbu54OYxzXbJgVaGYHXF7hjOzmbRqg8yKjfeNAfktG16\nE4DRpxye4TuNpSE9L3MBfSxziXcyNE+joOEwdOLXSQKBgQD0dY9Ko7Nil9rZsZE3\nZxVBup19M3Pb0M2csgaaxpY9FJAAXNsejBCcyf78IXj20I/SdrimB3hReaYu3vEG\n5WgSnkfI1BNy3j8ucm1njr8o3D7JP7N//Kp6M7E/RVRhhEzSm711xmVIW5kIA+lu\nFOXJaMwzKRMtjMVTcDkfOxdAnQKBgQDcooiTWcs4syjaNhRQR4f5NGgOJgwTdeIu\nsRZjcec+l98y9fSJgyYVl5x21dTlYeQiII7NESlPY1AOty4+Kpp7kvY34J0X5fxp\nuj9MRa/36RLv+oTlYDAD5BF8QtmRZ0jejEdElh5oUp5CeOHSeYKahY3sA/tk368a\nELKruWpWZQKBgQCYYrQJDhSjkA+/hj4EsECC8aZ8xlchnn6dgCg30TUULD47y6ZX\n2237nrtRRjhWeto8kv81mBB7kX5zV0weRWDjwkDzQqhBAaOW+4ORe11URj7pSslF\nLibC+Hgz/a7E/yi4XJb01NCME3VIls+rbGF1dNtdxOwMh+T1x04EVtx+zQKBgCQC\nQtgJp6kxVFGI0ffoNMDvVKw6eW4Tpz6HmGfShzMoBj2C9s4aoXSUseyTKZPmTh1j\nwuqlCmDyjHZaXym2OlBAw/6KohjsaC25P+tq1DVZzMVt1ZK6CBwadOAa6PdaLAJm\nUptXBM9x7HJc2D5Jpo8hjPAgFj94YlOWthJgyIIhAoGBAMl0MvoEHgqtoIqUb6t8\nvTVjCSLe+8dcKJMHwhX1LWIDidZ1TFE0V6NtXmFIV7Ln1SIhzCE2rYk0OdkzRVTS\nFRxSCeyuG1D4Q9YvVhOnej/NjLJURiTEMq4jUuZQVFTRivmKuLac0iKQ4CbXxWcK\nf78D4TyTNuISlOHr56vr3Lju\n-----END PRIVATE KEY-----\n",
+  "client_email": "rohan-152@medical-data-extraction.iam.gserviceaccount.com",
+  "client_id": "108281031343101220707",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rohan-152%40medical-data-extraction.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
